@@ -1,0 +1,6 @@
+[
+    {
+        "query": "Show users who spent more than ₹10,000 in Delhi",
+        "sql": "SELECT * FROM users WHERE purchase_amount > 10000 AND city = 'Delhi';"
+    }
+]
