@@ -1,0 +1,1 @@
+# QueryGenie-RAG-a-SQL-Query-Generator-from-Natural-Language
